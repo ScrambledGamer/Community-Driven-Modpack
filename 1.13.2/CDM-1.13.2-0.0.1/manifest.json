@@ -1,0 +1,24 @@
+{
+  "minecraft": {
+    "version": "1.13.2",
+    "modLoaders": [
+      {
+        "id": "forge-25.0.219",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "CDM-1.13.2",
+  "version": "0.0.1",
+  "author": "HighSpecGamer_17",
+  "files": [
+    {
+      "projectID": 225179,
+      "fileID": 2727118,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
