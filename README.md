@@ -1,2 +1,2 @@
-# Community-Driven-Modpack
-Modpack Driven by the Community
+# Community-Driven-Modpacks
+Modpacks Driven by the Community
